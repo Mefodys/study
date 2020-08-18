@@ -15,7 +15,8 @@ while 1:
     for i in range(len(a)):
         print(a[i], end="\r")
         time.sleep(0.1)
-    
+
+#comment
 # animation = "|/-\\"
 # idx = 0
 # while (1):
