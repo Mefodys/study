@@ -16,7 +16,7 @@ while 1:
         print(a[i], end="\r")
         time.sleep(0.1)
 
-#comment
+#comment1
 # animation = "|/-\\"
 # idx = 0
 # while (1):
