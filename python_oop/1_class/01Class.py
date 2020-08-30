@@ -28,3 +28,4 @@ print (newPerson.name)
 print (newPerson.age)
 
 print (Person.__dict__)
+print (newPerson.__dict__)
