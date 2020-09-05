@@ -29,3 +29,17 @@ class Dog:
         print('Color is',  color)
 
 Chelsi = Dog('Chelsi', 10, 'black')
+
+
+class NewDog:
+
+    def __init__(self, name, age, color):
+        self.name = name
+        self.age = age
+        self.color = color
+        
+        print('Name is', name)
+        print('Age is', age)
+        print('Color is',  color)
+
+Chelsi = Dog('Chelsi', 10, 'black')
