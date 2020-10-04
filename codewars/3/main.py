@@ -20,5 +20,7 @@ def friend(x):
             result.append(i)
     return result
 
+# def friend(x):
+#     return [f for f in x if len(f) == 4]
 
 friend(["Ryan", "Kieran", "Mark", ])  # shuold return ["Ryan", "Mark"]
