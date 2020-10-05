@@ -46,22 +46,26 @@ coordinates = [
 
 import re
 
-pat = '-?[0-9]?[0-9]\.?([0-9]+)?,\s-?[0-1]?[0-9]?[0-9]\.?(([0-9])+)??'
+#pat = '-?[0-9]?[0-9]\.?([0-9]+)?,\s-?[0-1]?[0-9]?[0-9]\.?(([0-9])+)??'
+correct_pat = '-?(\d|[1-8]\d|90)\.?\d*, -?(\d|[1-9]\d|1[0-7]\d|180)\.?\d*$'
 
 
+# def is_valid_coordinates(coordinates):
+#     for i in coordinates:
+#         if re.match(pat, i):
+#             print("TRUE", i)
+#         else:
+#             print("False", i)
+
+# solution:
 def is_valid_coordinates(coordinates):
     for i in coordinates:
-        if re.match(pat, i):
-            print("TRUE", i)
-        else:
-            print("False", i)
-
-    # if (temp[0] <= -90 and temp[0]>= 90) and (temp[1] <= -180 and temp[1]>= 180):
-    #     print(temp[0], temp[1])
-    # else:
-    #     print("bad latitude or longitude")
-
-    return None  # do your thing
-
+        x = bool(re.match(correct_pat, i))
+        print (x, i)
+        #return bool(re.match(correct_pat, i))
 
 is_valid_coordinates(coordinates)
+
+#problem was with my understading of the task.
+#the func must receive one sting (a pair of coordinates),
+#not a list with a bunch of pairs with coordinates.
