@@ -1,3 +1,7 @@
+#!NOT COMPLETED!
+#Regular Expression from pat works on https://regexr.com/ with all stings instead of "99.234, 12.324"
+#Here it shows True for "6.325624, 43.34345.345", "0, 1,2", "23.245, 1e1" somewhy.
+
 # 6 kyu
 # Coordinates Validator
 
@@ -29,22 +33,35 @@ coordinates = [
     "4, -3",
     "24.53525235, 23.45235",
     "04, -23.234235",
-    "43.91343345, 143"
+    "43.91343345, 143",
+    "23.234, - 23.4234",
+    "2342.43536, 34.324236",
+    "N23.43345, E32.6457",
+    "99.234, 12.324",
+    "6.325624, 43.34345.345",
+    "0, 1,2",
+    "0.342q0832, 1.2324",
+    "23.245, 1e1"
 ]
+
+import re
+
+pat = '-?[0-9]?[0-9]\.?([0-9]+)?,\s-?[0-1]?[0-9]?[0-9]\.?(([0-9])+)??'
 
 
 def is_valid_coordinates(coordinates):
-    temp_list_of_int = []
     for i in coordinates:
-        temp = i.split(", ")
-        print(temp)
+        if re.match(pat, i):
+            print("TRUE", i)
+        else:
+            print("False", i)
 
     # if (temp[0] <= -90 and temp[0]>= 90) and (temp[1] <= -180 and temp[1]>= 180):
     #     print(temp[0], temp[1])
     # else:
     #     print("bad latitude or longitude")
 
-    return True  # do your thing
+    return None  # do your thing
 
 
 is_valid_coordinates(coordinates)
