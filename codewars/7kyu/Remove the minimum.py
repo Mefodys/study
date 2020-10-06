@@ -44,3 +44,15 @@ def remove_smallest(numbers):
 # remove_smallest([5, 3, 2, 1, 4]) #, [5, 3, 2, 4]
 # remove_smallest([1, 2, 3, 1, 1]) # [2, 3, 1, 1]
 remove_smallest([364, 367, 70, 110, 375, 126])
+
+#==
+print()
+a = [364, 367, 70, 110, 375, 126]
+print ("a", id(a), a)
+
+b = []
+b = a.copy()
+print ("b" ,id(b), b)
+
+c = a[:]
+print ("c", id(c), c)
