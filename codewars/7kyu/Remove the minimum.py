@@ -50,7 +50,7 @@ print()
 a = [364, 367, 70, 110, 375, 126]
 print ("a", id(a), a)
 
-b = []
+# b = []
 b = a.copy()
 print ("b" ,id(b), b)
 
