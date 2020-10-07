@@ -22,6 +22,7 @@ Note
 In case of an empty array return 0. You will not be tested with invalid input (input will always be an array). Order of the face (eyes, nose, mouth) elements will always be the same.
 """
 
+"""
 import re
 
 smiley_face_pattern = '[:|;]([-|~])?[)|D]$'
@@ -38,6 +39,25 @@ def count_smileys(arr):
     else:
         print(0)
 
+"""
+
+
+
+# Another solutions from codewars:
+#
+from re import findall
+def count_smileys(arr):
+    return len(findall(r"[:;][-~]?[)D]", " ".join(arr)))
+
+
+# STEP-BY-STEP:
+# from re import findall
+# def count_smileys(arr):
+#      a = " ".join(arr)
+#      b = findall(r"[:;][-~]?[)D]", a)
+#      c = list(b)
+#      d = len (c)
+#      print (d)
 
 
 count_smileys([])                              # 0)
