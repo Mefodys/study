@@ -53,6 +53,9 @@ def number(lines):
     print(temp_list)
 
 
+#smarter variant:
+# def number(lines):
+#   return ['%d: %s' % v for v in enumerate(lines, 1)]
 
 
 number([])  # , []
