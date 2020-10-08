@@ -17,5 +17,14 @@ def count(string):
 
 
 
+# from collections import Counter
+#
+# def count(string):
+#     return Counter(string)
+
+#
+# def count(string):
+#     return {i: string.count(i) for i in string}
+
 count('aba')      #{'a': 2, 'b': 1}
 # count('')      #{}
