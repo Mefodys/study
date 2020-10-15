@@ -50,7 +50,15 @@ def is_pangram(s):
     return True
 
 
-
+#better and simpler solution
+# import string
+#
+# def is_pangram(s):
+#     s = s.lower()
+#     for char in 'abcdefghijklmnopqrstuvwxyz':
+#         if char not in s:
+#             return False
+#     return True
 
 
 
