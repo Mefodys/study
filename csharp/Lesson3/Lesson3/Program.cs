@@ -11,11 +11,15 @@ namespace Lesson3
         static void Main(string[] args)
         {
             string msg = "Type {0,8} |\t.NET {1,8} |\tSize = {2} \t| MIN = {3,30}\t| MAX = {4}";
+            //string msg = "{}|\t {} |\t {} |\t {3,30} |\t {4}";
 
             Console.Title = "DATA TYPES in C#";
 
             Console.WriteLine("\n\t\t\t\t\tchislovie (celochislennie) TYPES:\n");
+
+            //Console.WriteLine("byte", typeof(byte).Name, sizeof(byte), byte.MinValue, byte.MaxValue);
             Console.WriteLine(string.Format(msg, "byte", typeof(byte).Name, sizeof(byte), byte.MinValue, byte.MaxValue));
+           
             Console.WriteLine(string.Format(msg, "sbyte", typeof(sbyte).Name, sizeof(sbyte), sbyte.MinValue, sbyte.MaxValue));
             Console.WriteLine(string.Format(msg, "short", typeof(short).Name, sizeof(short), short.MinValue, short.MaxValue));
             Console.WriteLine(string.Format(msg, "ushort", typeof(ushort).Name, sizeof(ushort), ushort.MinValue, ushort.MaxValue));
@@ -40,9 +44,9 @@ namespace Lesson3
             Console.WriteLine(string.Format(msg, "object", typeof(object).Name, "", "", ""));
             Console.WriteLine(string.Format(msg, "dynamic", "", "", "", ""));
 
-            int a;
-            string b;
-
+           // int a;
+            //string b;
+           
         }
     }
 }
