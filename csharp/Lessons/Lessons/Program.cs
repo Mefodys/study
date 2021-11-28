@@ -1,12 +1,19 @@
-﻿using System;
+﻿using System; //подключение пространства имен.
 
-namespace Lessons
+/* комментарий */
+// комментарий 
+
+namespace Lessons 
+    //это наше пространство имен. можем назвать как угодно.
+    //аналогично названию проекта.
+    //Можно подключить его в другие проекты через using (как using System). 
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //System.Console.WriteLine("Hello World!")
+            Console.WriteLine("Hi!");
         }
     }
 }
