@@ -48,7 +48,7 @@ namespace Lesson6
             
             double convertedstr5 = Convert.ToDouble(str5, numberFormatInfo);
             Console.WriteLine(convertedstr5);
-
+            uint.Parse();
 
         }
     }

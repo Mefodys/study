@@ -22,7 +22,8 @@ namespace Lesson7
             double b = double.Parse(str2, numberFormatInfo);
             */
 
-            string str3 = "5.9";
+            //string str3 = "5.9";
+            string str3 = null;
             try
             {
                 double c = double.Parse(str3);
@@ -31,6 +32,8 @@ namespace Lesson7
             catch (Exception)
             {
                 Console.WriteLine("Convertation error");
+                Console.WriteLine("******************");
+                //Console.WriteLine(Exception);
             }
 
             string str4 = "2 h";

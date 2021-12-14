@@ -29,7 +29,7 @@ namespace Lesson8
                         int b = 3;
                         int c = 4;
 
-                        int result = a % b; // 11 делить на 3, получатеся 3, и в остатке 2
+                        int result = a % b; // 11 делить на 3, получатеся 3, и в остатке 2.результат равен 2.
 
                         int sum = a + b + c;
                         int r = c + 5;
@@ -91,14 +91,15 @@ namespace Lesson8
             
             Console.WriteLine("Skolko rubley hotite pomeniat'?");
             string rubl = Console.ReadLine();
-                       
-            int converted_rubl = Convert.ToInt32(rubl);
+
+            // int converted_rubl = Convert.ToInt32(rubl);
+           double converted_rubl = double.Parse(rubl);
 
             double result = converted_rubl / kurs_dollara;
 
             Console.WriteLine("Poluchite " + result + " dollarov");
 
-
+            //написать метод.
 
 
 

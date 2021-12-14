@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\my_code\\study\\csharp\\Lesson7\\Lesson7\\Lesson7.csproj",
-      "projectName": "Lesson7",
-      "projectPath": "C:\\my_code\\study\\csharp\\Lesson7\\Lesson7\\Lesson7.csproj",
+      "projectUniqueName": "C:\\my_code\\study\\csharp\\Lesson8\\lesson 8 domashnee zadanie\\lesson 8 domashnee zadanie.csproj",
+      "projectName": "lesson 8 domashnee zadanie",
+      "projectPath": "C:\\my_code\\study\\csharp\\Lesson8\\lesson 8 domashnee zadanie\\lesson 8 domashnee zadanie.csproj",
       "packagesPath": "C:\\Users\\Mefody\\.nuget\\packages\\",
-      "outputPath": "C:\\my_code\\study\\csharp\\Lesson7\\Lesson7\\obj\\",
+      "outputPath": "C:\\my_code\\study\\csharp\\Lesson8\\lesson 8 domashnee zadanie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mefody\\AppData\\Roaming\\NuGet\\NuGet.Config",

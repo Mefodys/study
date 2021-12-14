@@ -1,0 +1,16 @@
+C:\my_code\study\csharp\Lesson8\lesson 8 domashnee zadanie\bin\Debug\net5.0\lesson 8 domashnee zadanie.exe
+C:\my_code\study\csharp\Lesson8\lesson 8 domashnee zadanie\bin\Debug\net5.0\lesson 8 domashnee zadanie.deps.json
+C:\my_code\study\csharp\Lesson8\lesson 8 domashnee zadanie\bin\Debug\net5.0\lesson 8 domashnee zadanie.runtimeconfig.json
+C:\my_code\study\csharp\Lesson8\lesson 8 domashnee zadanie\bin\Debug\net5.0\lesson 8 domashnee zadanie.runtimeconfig.dev.json
+C:\my_code\study\csharp\Lesson8\lesson 8 domashnee zadanie\bin\Debug\net5.0\lesson 8 domashnee zadanie.dll
+C:\my_code\study\csharp\Lesson8\lesson 8 domashnee zadanie\bin\Debug\net5.0\ref\lesson 8 domashnee zadanie.dll
+C:\my_code\study\csharp\Lesson8\lesson 8 domashnee zadanie\bin\Debug\net5.0\lesson 8 domashnee zadanie.pdb
+C:\my_code\study\csharp\Lesson8\lesson 8 domashnee zadanie\obj\Debug\net5.0\lesson 8 domashnee zadanie.csproj.AssemblyReference.cache
+C:\my_code\study\csharp\Lesson8\lesson 8 domashnee zadanie\obj\Debug\net5.0\lesson 8 domashnee zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\my_code\study\csharp\Lesson8\lesson 8 domashnee zadanie\obj\Debug\net5.0\lesson 8 domashnee zadanie.AssemblyInfoInputs.cache
+C:\my_code\study\csharp\Lesson8\lesson 8 domashnee zadanie\obj\Debug\net5.0\lesson 8 domashnee zadanie.AssemblyInfo.cs
+C:\my_code\study\csharp\Lesson8\lesson 8 domashnee zadanie\obj\Debug\net5.0\lesson 8 domashnee zadanie.csproj.CoreCompileInputs.cache
+C:\my_code\study\csharp\Lesson8\lesson 8 domashnee zadanie\obj\Debug\net5.0\lesson 8 domashnee zadanie.dll
+C:\my_code\study\csharp\Lesson8\lesson 8 domashnee zadanie\obj\Debug\net5.0\ref\lesson 8 domashnee zadanie.dll
+C:\my_code\study\csharp\Lesson8\lesson 8 domashnee zadanie\obj\Debug\net5.0\lesson 8 domashnee zadanie.pdb
+C:\my_code\study\csharp\Lesson8\lesson 8 domashnee zadanie\obj\Debug\net5.0\lesson 8 domashnee zadanie.genruntimeconfig.cache
