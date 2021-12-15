@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "domashnee_zadanie2/1.0.0": {
+        "runtime": {
+          "domashnee_zadanie2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "domashnee_zadanie2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

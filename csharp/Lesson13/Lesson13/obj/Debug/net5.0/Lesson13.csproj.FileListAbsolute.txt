@@ -1,0 +1,15 @@
+C:\my_code\study\csharp\Lesson13\Lesson13\bin\Debug\net5.0\Lesson13.exe
+C:\my_code\study\csharp\Lesson13\Lesson13\bin\Debug\net5.0\Lesson13.deps.json
+C:\my_code\study\csharp\Lesson13\Lesson13\bin\Debug\net5.0\Lesson13.runtimeconfig.json
+C:\my_code\study\csharp\Lesson13\Lesson13\bin\Debug\net5.0\Lesson13.runtimeconfig.dev.json
+C:\my_code\study\csharp\Lesson13\Lesson13\bin\Debug\net5.0\Lesson13.dll
+C:\my_code\study\csharp\Lesson13\Lesson13\bin\Debug\net5.0\ref\Lesson13.dll
+C:\my_code\study\csharp\Lesson13\Lesson13\bin\Debug\net5.0\Lesson13.pdb
+C:\my_code\study\csharp\Lesson13\Lesson13\obj\Debug\net5.0\Lesson13.GeneratedMSBuildEditorConfig.editorconfig
+C:\my_code\study\csharp\Lesson13\Lesson13\obj\Debug\net5.0\Lesson13.AssemblyInfoInputs.cache
+C:\my_code\study\csharp\Lesson13\Lesson13\obj\Debug\net5.0\Lesson13.AssemblyInfo.cs
+C:\my_code\study\csharp\Lesson13\Lesson13\obj\Debug\net5.0\Lesson13.csproj.CoreCompileInputs.cache
+C:\my_code\study\csharp\Lesson13\Lesson13\obj\Debug\net5.0\Lesson13.dll
+C:\my_code\study\csharp\Lesson13\Lesson13\obj\Debug\net5.0\ref\Lesson13.dll
+C:\my_code\study\csharp\Lesson13\Lesson13\obj\Debug\net5.0\Lesson13.pdb
+C:\my_code\study\csharp\Lesson13\Lesson13\obj\Debug\net5.0\Lesson13.genruntimeconfig.cache
