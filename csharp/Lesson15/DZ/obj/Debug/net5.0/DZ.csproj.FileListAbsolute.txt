@@ -1,0 +1,16 @@
+C:\my_code\study\csharp\Lesson15\DZ\bin\Debug\net5.0\DZ.exe
+C:\my_code\study\csharp\Lesson15\DZ\bin\Debug\net5.0\DZ.deps.json
+C:\my_code\study\csharp\Lesson15\DZ\bin\Debug\net5.0\DZ.runtimeconfig.json
+C:\my_code\study\csharp\Lesson15\DZ\bin\Debug\net5.0\DZ.runtimeconfig.dev.json
+C:\my_code\study\csharp\Lesson15\DZ\bin\Debug\net5.0\DZ.dll
+C:\my_code\study\csharp\Lesson15\DZ\bin\Debug\net5.0\ref\DZ.dll
+C:\my_code\study\csharp\Lesson15\DZ\bin\Debug\net5.0\DZ.pdb
+C:\my_code\study\csharp\Lesson15\DZ\obj\Debug\net5.0\DZ.csproj.AssemblyReference.cache
+C:\my_code\study\csharp\Lesson15\DZ\obj\Debug\net5.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\my_code\study\csharp\Lesson15\DZ\obj\Debug\net5.0\DZ.AssemblyInfoInputs.cache
+C:\my_code\study\csharp\Lesson15\DZ\obj\Debug\net5.0\DZ.AssemblyInfo.cs
+C:\my_code\study\csharp\Lesson15\DZ\obj\Debug\net5.0\DZ.csproj.CoreCompileInputs.cache
+C:\my_code\study\csharp\Lesson15\DZ\obj\Debug\net5.0\DZ.dll
+C:\my_code\study\csharp\Lesson15\DZ\obj\Debug\net5.0\ref\DZ.dll
+C:\my_code\study\csharp\Lesson15\DZ\obj\Debug\net5.0\DZ.pdb
+C:\my_code\study\csharp\Lesson15\DZ\obj\Debug\net5.0\DZ.genruntimeconfig.cache
