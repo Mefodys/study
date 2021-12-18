@@ -6,6 +6,7 @@ namespace Lesson15
     {
         static void Main(string[] args)
         {
+            
 
             /*
             string input = Console.ReadLine();
@@ -17,14 +18,14 @@ namespace Lesson15
 
             switch (a)
             {
-                case 1:
-                    Console.Write(" one \n");
+                case 1:                         //вводим цифру 1
+                    Console.Write(" one \n");   //получаем вывод (произвольный код)
                     break;
-                case 2:
-                    Console.Write(" two \n");
-                    break;
-                default:
-                    Console.Write("not one or two \n");
+                case 2:                         //вводим цифру 2
+                    Console.Write(" two \n");   //получаем вывод (произвольный код)
+                    break;                      
+                default:                        // если мы вводим любую цифру, то выполняется данный код
+                    Console.Write("not one or two \n"); 
                     break;
             }
 

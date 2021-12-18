@@ -9,12 +9,28 @@ namespace DZ
 
             //calculator using switch
             while (true) 
-            { 
-                Console.WriteLine("vvedite pervuiu cifru ");
-                double chifra1 = double.Parse(Console.ReadLine());
+            {
+                Console.Clear();
 
-                Console.WriteLine("vvedite vtoruiu cifru ");
-                double chifra2 = double.Parse(Console.ReadLine());
+                double cifra1;
+                double cifra2;
+                try
+                {
+                    Console.WriteLine("vvedite pervuiu cifru ");
+                    cifra1 = double.Parse(Console.ReadLine());
+
+                    Console.WriteLine("vvedite vtoruiu cifru ");
+                    cifra2 = double.Parse(Console.ReadLine());
+
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("convertation error");
+                    Console.ReadLine();
+                    continue;
+
+                    //throw;
+                }
 
                 Console.WriteLine("vvedite operaciu (+ - * /): ");
                 string oper = Console.ReadLine();
@@ -22,30 +38,30 @@ namespace DZ
                 switch (oper)
                 {
                     case "+":
-                        Console.WriteLine(chifra1 + chifra2);
+                        Console.WriteLine(cifra1 + cifra2);
                         break;
                     case "-":
-                        Console.WriteLine(chifra1 - chifra2);
+                        Console.WriteLine(cifra1 - cifra2);
                         break;
                     case "*":
-                         Console.WriteLine(chifra1 * chifra2);
+                         Console.WriteLine(cifra1 * cifra2);
                          break;
                     case "/":
-                         if (chifra2 == 0)
+                         if (cifra2 == 0)
                          {
                             Console.WriteLine("cifra2 ravna 0. na 0 delit nelzya.");
                             break;
                          }
                         else
                         {
-                            Console.WriteLine(chifra1 / chifra2);
+                            Console.WriteLine(cifra1 / cifra2);
                             break;
                         }
                     default:
-                        Console.WriteLine(chifra1 + chifra2);
-                        Console.WriteLine(chifra1 - chifra2);
-                        Console.WriteLine(chifra1 * chifra2);
-                        Console.WriteLine(chifra1 / chifra2);
+                        Console.WriteLine(cifra1 + cifra2);
+                        Console.WriteLine(cifra1 - cifra2);
+                        Console.WriteLine(cifra1 * cifra2);
+                        Console.WriteLine(cifra1 / cifra2);
                         break;
 
                 }
@@ -54,47 +70,49 @@ namespace DZ
 
                 //calculator using if else
                 Console.WriteLine("vvedite pervuiu cifru ");
-                double chifra3 = double.Parse(Console.ReadLine());
+                double cifra3 = double.Parse(Console.ReadLine());
 
                 Console.WriteLine("vvedite vtoruiu cifru ");
-                double chifra4 = double.Parse(Console.ReadLine());
+                double cifra4 = double.Parse(Console.ReadLine());
 
                 Console.WriteLine("vvedite operaciu (+ - * /): ");
                 string opera = Console.ReadLine();
 
                 if (opera == "+")
                 {
-                    Console.WriteLine(chifra3 + chifra4);
+                    Console.WriteLine(cifra3 + cifra4);
                 }
                 else if (opera == "-")
                 {
-                    Console.WriteLine(chifra3 - chifra4);
+                    Console.WriteLine(cifra3 - cifra4);
                 }
                 else if (opera == "*")
                 {
-                    Console.WriteLine(chifra3 * chifra4);
+                    Console.WriteLine(cifra3 * cifra4);
                 }
                 else if (opera == "/")
                 {
-                    if (chifra3 == 0)
+                    if (cifra3 == 0)
                     {
                         Console.WriteLine("cifra2 ravna 0. na 0 delit nelzya.");
-                        break;
                     }
                     else
                     {
-                        Console.WriteLine(chifra3 / chifra4);
+                        Console.WriteLine(cifra3 / cifra4);
                      
                     }
                 }
                 else
                 {
-                    Console.WriteLine(chifra3 + chifra4);
-                    Console.WriteLine(chifra3 - chifra4);
-                    Console.WriteLine(chifra3 * chifra4);
-                    Console.WriteLine(chifra3 / chifra4);
-
+                    Console.WriteLine(cifra3 + cifra4);
+                    Console.WriteLine(cifra3 - cifra4);
+                    Console.WriteLine(cifra3 * cifra4);
+                    Console.WriteLine(cifra3 / cifra4);
+                    Console.ReadLine();
                 }
+                Console.WriteLine("press Enter");
+                Console.ReadLine();
+
             }
         }
     }
