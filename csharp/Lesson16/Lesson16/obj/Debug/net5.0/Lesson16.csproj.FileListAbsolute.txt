@@ -13,3 +13,4 @@ C:\my_code\study\csharp\Lesson16\Lesson16\obj\Debug\net5.0\Lesson16.dll
 C:\my_code\study\csharp\Lesson16\Lesson16\obj\Debug\net5.0\ref\Lesson16.dll
 C:\my_code\study\csharp\Lesson16\Lesson16\obj\Debug\net5.0\Lesson16.pdb
 C:\my_code\study\csharp\Lesson16\Lesson16\obj\Debug\net5.0\Lesson16.genruntimeconfig.cache
+C:\my_code\study\csharp\Lesson16\Lesson16\obj\Debug\net5.0\Lesson16.csproj.AssemblyReference.cache

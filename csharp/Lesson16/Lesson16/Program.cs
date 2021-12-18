@@ -12,18 +12,47 @@ namespace Lesson16
 
             //Console.WriteLine("DO ACTION");
             //Console.WriteLine("DO ACTION");
+            /*            
+                        Console.WriteLine("***");
+                        Console.WriteLine("Enter limit");
+                        uint limit = uint.Parse(Console.ReadLine());
+                        int count = 0;
 
-            Console.WriteLine("***");
-            Console.WriteLine("Enter limit");
-            uint limit = uint.Parse(Console.ReadLine());
-            int count = 0;
+                        while (count < limit)
+                        {
+                            count++;
+                            Console.WriteLine("DO ACTION in while loop" + count);
+                            //Console.WriteLine(count);
+                        }
 
-            while (count < limit)
+                        Console.WriteLine("***");
+
+            */
+            int firstDigit;
+
+            while (true)
             {
-                count++;
-                Console.WriteLine("DO ACTION in while loop" + count);
-                //Console.WriteLine(count);
+
+                try
+                {
+                    Console.Clear();
+                    Console.WriteLine("Enter the first digit: ");
+                    firstDigit = int.Parse(Console.ReadLine());
+                }
+                catch (Exception)
+                {
+                    //throw;
+                    Console.WriteLine("Input string was not in a correct format. Press Enter");
+                    Console.ReadLine();
+                    continue;
+                }
+
+                while (true)
+                {
+                    Console.WriteLine(firstDigit);
+                }
             }
+            
 
         }
     }
