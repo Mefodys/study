@@ -19,6 +19,8 @@ namespace DZ4
                 uint countEven = 0;
                 uint countOdd = 0;
 
+                int sumOfEven = 0;
+                int sumOfOdd = 0; 
                                
                     if (firstNumber < secondNumber)
                     {
@@ -28,10 +30,13 @@ namespace DZ4
                             if (firstNumber % 2 == 0)
                             {
                                 countEven++;
-                            }
-                            else
+                                sumOfEven += firstNumber;
+
+                        }
+                        else
                             {
                                 countOdd++;
+                                sumOfOdd += firstNumber;
                             }
 
                             firstNumber++;
@@ -56,6 +61,11 @@ namespace DZ4
                 
                 Console.WriteLine("countEven: " + countEven);
                 Console.WriteLine("countOdd: " + countOdd);
+                
+                Console.WriteLine("sumOfEven: " + sumOfEven);
+                Console.WriteLine("sumOfOdd: " + sumOfOdd);
+
+
                 Console.WriteLine("\n");
 
 
