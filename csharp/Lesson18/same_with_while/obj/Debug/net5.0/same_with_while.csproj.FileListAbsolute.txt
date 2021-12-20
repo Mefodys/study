@@ -1,0 +1,16 @@
+C:\my_code\study\csharp\Lesson18\same_with_while\obj\Debug\net5.0\same_with_while.csproj.AssemblyReference.cache
+C:\my_code\study\csharp\Lesson18\same_with_while\obj\Debug\net5.0\same_with_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\my_code\study\csharp\Lesson18\same_with_while\obj\Debug\net5.0\same_with_while.AssemblyInfoInputs.cache
+C:\my_code\study\csharp\Lesson18\same_with_while\obj\Debug\net5.0\same_with_while.AssemblyInfo.cs
+C:\my_code\study\csharp\Lesson18\same_with_while\obj\Debug\net5.0\same_with_while.csproj.CoreCompileInputs.cache
+C:\my_code\study\csharp\Lesson18\same_with_while\bin\Debug\net5.0\same_with_while.exe
+C:\my_code\study\csharp\Lesson18\same_with_while\bin\Debug\net5.0\same_with_while.deps.json
+C:\my_code\study\csharp\Lesson18\same_with_while\bin\Debug\net5.0\same_with_while.runtimeconfig.json
+C:\my_code\study\csharp\Lesson18\same_with_while\bin\Debug\net5.0\same_with_while.runtimeconfig.dev.json
+C:\my_code\study\csharp\Lesson18\same_with_while\bin\Debug\net5.0\same_with_while.dll
+C:\my_code\study\csharp\Lesson18\same_with_while\bin\Debug\net5.0\ref\same_with_while.dll
+C:\my_code\study\csharp\Lesson18\same_with_while\bin\Debug\net5.0\same_with_while.pdb
+C:\my_code\study\csharp\Lesson18\same_with_while\obj\Debug\net5.0\same_with_while.dll
+C:\my_code\study\csharp\Lesson18\same_with_while\obj\Debug\net5.0\ref\same_with_while.dll
+C:\my_code\study\csharp\Lesson18\same_with_while\obj\Debug\net5.0\same_with_while.pdb
+C:\my_code\study\csharp\Lesson18\same_with_while\obj\Debug\net5.0\same_with_while.genruntimeconfig.cache
