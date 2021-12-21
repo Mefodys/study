@@ -1,0 +1,16 @@
+C:\my_code\study\csharp\Lesson20\Lesson20\bin\Debug\net5.0\Lesson20.exe
+C:\my_code\study\csharp\Lesson20\Lesson20\bin\Debug\net5.0\Lesson20.deps.json
+C:\my_code\study\csharp\Lesson20\Lesson20\bin\Debug\net5.0\Lesson20.runtimeconfig.json
+C:\my_code\study\csharp\Lesson20\Lesson20\bin\Debug\net5.0\Lesson20.runtimeconfig.dev.json
+C:\my_code\study\csharp\Lesson20\Lesson20\bin\Debug\net5.0\Lesson20.dll
+C:\my_code\study\csharp\Lesson20\Lesson20\bin\Debug\net5.0\ref\Lesson20.dll
+C:\my_code\study\csharp\Lesson20\Lesson20\bin\Debug\net5.0\Lesson20.pdb
+C:\my_code\study\csharp\Lesson20\Lesson20\obj\Debug\net5.0\Lesson20.csproj.AssemblyReference.cache
+C:\my_code\study\csharp\Lesson20\Lesson20\obj\Debug\net5.0\Lesson20.GeneratedMSBuildEditorConfig.editorconfig
+C:\my_code\study\csharp\Lesson20\Lesson20\obj\Debug\net5.0\Lesson20.AssemblyInfoInputs.cache
+C:\my_code\study\csharp\Lesson20\Lesson20\obj\Debug\net5.0\Lesson20.AssemblyInfo.cs
+C:\my_code\study\csharp\Lesson20\Lesson20\obj\Debug\net5.0\Lesson20.csproj.CoreCompileInputs.cache
+C:\my_code\study\csharp\Lesson20\Lesson20\obj\Debug\net5.0\Lesson20.dll
+C:\my_code\study\csharp\Lesson20\Lesson20\obj\Debug\net5.0\ref\Lesson20.dll
+C:\my_code\study\csharp\Lesson20\Lesson20\obj\Debug\net5.0\Lesson20.pdb
+C:\my_code\study\csharp\Lesson20\Lesson20\obj\Debug\net5.0\Lesson20.genruntimeconfig.cache

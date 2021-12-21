@@ -1,0 +1,16 @@
+C:\my_code\study\csharp\Lesson20\Lesson20_msg\bin\Debug\net5.0\Lesson20_msg.exe
+C:\my_code\study\csharp\Lesson20\Lesson20_msg\bin\Debug\net5.0\Lesson20_msg.deps.json
+C:\my_code\study\csharp\Lesson20\Lesson20_msg\bin\Debug\net5.0\Lesson20_msg.runtimeconfig.json
+C:\my_code\study\csharp\Lesson20\Lesson20_msg\bin\Debug\net5.0\Lesson20_msg.runtimeconfig.dev.json
+C:\my_code\study\csharp\Lesson20\Lesson20_msg\bin\Debug\net5.0\Lesson20_msg.dll
+C:\my_code\study\csharp\Lesson20\Lesson20_msg\bin\Debug\net5.0\ref\Lesson20_msg.dll
+C:\my_code\study\csharp\Lesson20\Lesson20_msg\bin\Debug\net5.0\Lesson20_msg.pdb
+C:\my_code\study\csharp\Lesson20\Lesson20_msg\obj\Debug\net5.0\Lesson20_msg.csproj.AssemblyReference.cache
+C:\my_code\study\csharp\Lesson20\Lesson20_msg\obj\Debug\net5.0\Lesson20_msg.GeneratedMSBuildEditorConfig.editorconfig
+C:\my_code\study\csharp\Lesson20\Lesson20_msg\obj\Debug\net5.0\Lesson20_msg.AssemblyInfoInputs.cache
+C:\my_code\study\csharp\Lesson20\Lesson20_msg\obj\Debug\net5.0\Lesson20_msg.AssemblyInfo.cs
+C:\my_code\study\csharp\Lesson20\Lesson20_msg\obj\Debug\net5.0\Lesson20_msg.csproj.CoreCompileInputs.cache
+C:\my_code\study\csharp\Lesson20\Lesson20_msg\obj\Debug\net5.0\Lesson20_msg.dll
+C:\my_code\study\csharp\Lesson20\Lesson20_msg\obj\Debug\net5.0\ref\Lesson20_msg.dll
+C:\my_code\study\csharp\Lesson20\Lesson20_msg\obj\Debug\net5.0\Lesson20_msg.pdb
+C:\my_code\study\csharp\Lesson20\Lesson20_msg\obj\Debug\net5.0\Lesson20_msg.genruntimeconfig.cache
