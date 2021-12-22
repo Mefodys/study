@@ -1,0 +1,16 @@
+C:\my_code\study\csharp\Lesson22\square\obj\Debug\net5.0\square.csproj.AssemblyReference.cache
+C:\my_code\study\csharp\Lesson22\square\obj\Debug\net5.0\square.GeneratedMSBuildEditorConfig.editorconfig
+C:\my_code\study\csharp\Lesson22\square\obj\Debug\net5.0\square.AssemblyInfoInputs.cache
+C:\my_code\study\csharp\Lesson22\square\obj\Debug\net5.0\square.AssemblyInfo.cs
+C:\my_code\study\csharp\Lesson22\square\obj\Debug\net5.0\square.csproj.CoreCompileInputs.cache
+C:\my_code\study\csharp\Lesson22\square\bin\Debug\net5.0\square.exe
+C:\my_code\study\csharp\Lesson22\square\bin\Debug\net5.0\square.deps.json
+C:\my_code\study\csharp\Lesson22\square\bin\Debug\net5.0\square.runtimeconfig.json
+C:\my_code\study\csharp\Lesson22\square\bin\Debug\net5.0\square.runtimeconfig.dev.json
+C:\my_code\study\csharp\Lesson22\square\bin\Debug\net5.0\square.dll
+C:\my_code\study\csharp\Lesson22\square\bin\Debug\net5.0\ref\square.dll
+C:\my_code\study\csharp\Lesson22\square\bin\Debug\net5.0\square.pdb
+C:\my_code\study\csharp\Lesson22\square\obj\Debug\net5.0\square.dll
+C:\my_code\study\csharp\Lesson22\square\obj\Debug\net5.0\ref\square.dll
+C:\my_code\study\csharp\Lesson22\square\obj\Debug\net5.0\square.pdb
+C:\my_code\study\csharp\Lesson22\square\obj\Debug\net5.0\square.genruntimeconfig.cache
