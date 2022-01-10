@@ -1,0 +1,6 @@
+C:\my_code\study\csharp\Lesson25\Lesson25\bin\Debug\Lesson25.exe.config
+C:\my_code\study\csharp\Lesson25\Lesson25\bin\Debug\Lesson25.exe
+C:\my_code\study\csharp\Lesson25\Lesson25\bin\Debug\Lesson25.pdb
+C:\my_code\study\csharp\Lesson25\Lesson25\obj\Debug\Lesson25.csproj.CoreCompileInputs.cache
+C:\my_code\study\csharp\Lesson25\Lesson25\obj\Debug\Lesson25.exe
+C:\my_code\study\csharp\Lesson25\Lesson25\obj\Debug\Lesson25.pdb
