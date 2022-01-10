@@ -1,0 +1,15 @@
+C:\my_code\study\csharp\Lesson23\Lesson23\bin\Debug\net5.0\Lesson23.exe
+C:\my_code\study\csharp\Lesson23\Lesson23\bin\Debug\net5.0\Lesson23.deps.json
+C:\my_code\study\csharp\Lesson23\Lesson23\bin\Debug\net5.0\Lesson23.runtimeconfig.json
+C:\my_code\study\csharp\Lesson23\Lesson23\bin\Debug\net5.0\Lesson23.runtimeconfig.dev.json
+C:\my_code\study\csharp\Lesson23\Lesson23\bin\Debug\net5.0\Lesson23.dll
+C:\my_code\study\csharp\Lesson23\Lesson23\bin\Debug\net5.0\ref\Lesson23.dll
+C:\my_code\study\csharp\Lesson23\Lesson23\bin\Debug\net5.0\Lesson23.pdb
+C:\my_code\study\csharp\Lesson23\Lesson23\obj\Debug\net5.0\Lesson23.GeneratedMSBuildEditorConfig.editorconfig
+C:\my_code\study\csharp\Lesson23\Lesson23\obj\Debug\net5.0\Lesson23.AssemblyInfoInputs.cache
+C:\my_code\study\csharp\Lesson23\Lesson23\obj\Debug\net5.0\Lesson23.AssemblyInfo.cs
+C:\my_code\study\csharp\Lesson23\Lesson23\obj\Debug\net5.0\Lesson23.csproj.CoreCompileInputs.cache
+C:\my_code\study\csharp\Lesson23\Lesson23\obj\Debug\net5.0\Lesson23.dll
+C:\my_code\study\csharp\Lesson23\Lesson23\obj\Debug\net5.0\ref\Lesson23.dll
+C:\my_code\study\csharp\Lesson23\Lesson23\obj\Debug\net5.0\Lesson23.pdb
+C:\my_code\study\csharp\Lesson23\Lesson23\obj\Debug\net5.0\Lesson23.genruntimeconfig.cache
