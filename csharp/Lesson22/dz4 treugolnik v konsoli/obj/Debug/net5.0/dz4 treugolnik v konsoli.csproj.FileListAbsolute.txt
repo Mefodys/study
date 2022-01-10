@@ -1,0 +1,4 @@
+C:\my_code\study\csharp\Lesson22\dz4 treugolnik v konsoli\obj\Debug\net5.0\dz4 treugolnik v konsoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\my_code\study\csharp\Lesson22\dz4 treugolnik v konsoli\obj\Debug\net5.0\dz4 treugolnik v konsoli.AssemblyInfoInputs.cache
+C:\my_code\study\csharp\Lesson22\dz4 treugolnik v konsoli\obj\Debug\net5.0\dz4 treugolnik v konsoli.AssemblyInfo.cs
+C:\my_code\study\csharp\Lesson22\dz4 treugolnik v konsoli\obj\Debug\net5.0\dz4 treugolnik v konsoli.csproj.CoreCompileInputs.cache

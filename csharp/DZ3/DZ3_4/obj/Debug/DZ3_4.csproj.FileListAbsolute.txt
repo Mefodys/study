@@ -1,0 +1,7 @@
+C:\my_code\study\csharp\DZ3\DZ3_4\bin\Debug\DZ3_4.exe.config
+C:\my_code\study\csharp\DZ3\DZ3_4\bin\Debug\DZ3_4.exe
+C:\my_code\study\csharp\DZ3\DZ3_4\bin\Debug\DZ3_4.pdb
+C:\my_code\study\csharp\DZ3\DZ3_4\obj\Debug\DZ3_4.csproj.AssemblyReference.cache
+C:\my_code\study\csharp\DZ3\DZ3_4\obj\Debug\DZ3_4.csproj.CoreCompileInputs.cache
+C:\my_code\study\csharp\DZ3\DZ3_4\obj\Debug\DZ3_4.exe
+C:\my_code\study\csharp\DZ3\DZ3_4\obj\Debug\DZ3_4.pdb

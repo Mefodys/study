@@ -1,0 +1,15 @@
+C:\my_code\study\csharp\DZ3\DZ3\bin\Debug\net5.0\DZ3.exe
+C:\my_code\study\csharp\DZ3\DZ3\bin\Debug\net5.0\DZ3.deps.json
+C:\my_code\study\csharp\DZ3\DZ3\bin\Debug\net5.0\DZ3.runtimeconfig.json
+C:\my_code\study\csharp\DZ3\DZ3\bin\Debug\net5.0\DZ3.runtimeconfig.dev.json
+C:\my_code\study\csharp\DZ3\DZ3\bin\Debug\net5.0\DZ3.dll
+C:\my_code\study\csharp\DZ3\DZ3\bin\Debug\net5.0\ref\DZ3.dll
+C:\my_code\study\csharp\DZ3\DZ3\bin\Debug\net5.0\DZ3.pdb
+C:\my_code\study\csharp\DZ3\DZ3\obj\Debug\net5.0\DZ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\my_code\study\csharp\DZ3\DZ3\obj\Debug\net5.0\DZ3.AssemblyInfoInputs.cache
+C:\my_code\study\csharp\DZ3\DZ3\obj\Debug\net5.0\DZ3.AssemblyInfo.cs
+C:\my_code\study\csharp\DZ3\DZ3\obj\Debug\net5.0\DZ3.csproj.CoreCompileInputs.cache
+C:\my_code\study\csharp\DZ3\DZ3\obj\Debug\net5.0\DZ3.dll
+C:\my_code\study\csharp\DZ3\DZ3\obj\Debug\net5.0\ref\DZ3.dll
+C:\my_code\study\csharp\DZ3\DZ3\obj\Debug\net5.0\DZ3.pdb
+C:\my_code\study\csharp\DZ3\DZ3\obj\Debug\net5.0\DZ3.genruntimeconfig.cache
