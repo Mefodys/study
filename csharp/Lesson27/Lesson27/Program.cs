@@ -21,15 +21,31 @@ namespace Lesson27
             Console.WriteLine(myArray.Sum());
 
             Console.WriteLine(myArray.Where(i => i % 2 == 0).Sum()); // вывод суммы четных элементов
-                                                                     //метод where позволяет поместить внутрь себя условие для поска.
-                                                                     //метод принимает в себя делегат условие для поиска.
-                                                                     //мы здесь выше указали там лямбда выражение.
+                                                                     // метод where позволяет поместить внутрь себя условие для поска.
+                                                                     // метод принимает в себя делегат условие для поиска.
+                                                                     // мы здесь выше указали там лямбда выражение.
 
 
             //найти уникальные элементы:
             int [] result3 = myArray.Distinct().ToArray();
             Console.WriteLine(result3);
 
+            int[] result4 = myArray.OrderBy(i => i).ToArray();
+
+            Console.WriteLine(myArray.ToString());
+
+            Array.Sort(myArray);
+            //Console.WriteLine(myArray);
+
+            int result5 = Array.Find(myArray, i => i < 70);
+            Console.WriteLine(result5);
+
+            int result6 = Array.FindLast(myArray, i => i < 70);
+            Console.WriteLine(result6);
+
+            int [] result7 = Array.FindAll(myArray, i => i < 70);
+
+            Array.Reverse(myArray);
 
             Console.ReadLine();
         }
