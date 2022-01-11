@@ -1,0 +1,7 @@
+C:\my_code\study\csharp\Lesson26\DZ26_2\bin\Debug\DZ26_2.exe.config
+C:\my_code\study\csharp\Lesson26\DZ26_2\bin\Debug\DZ26_2.exe
+C:\my_code\study\csharp\Lesson26\DZ26_2\bin\Debug\DZ26_2.pdb
+C:\my_code\study\csharp\Lesson26\DZ26_2\obj\Debug\DZ26_2.csproj.AssemblyReference.cache
+C:\my_code\study\csharp\Lesson26\DZ26_2\obj\Debug\DZ26_2.csproj.CoreCompileInputs.cache
+C:\my_code\study\csharp\Lesson26\DZ26_2\obj\Debug\DZ26_2.exe
+C:\my_code\study\csharp\Lesson26\DZ26_2\obj\Debug\DZ26_2.pdb
