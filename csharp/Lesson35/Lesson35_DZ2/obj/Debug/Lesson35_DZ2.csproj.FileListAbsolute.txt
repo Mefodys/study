@@ -1,0 +1,6 @@
+C:\my_code\study\csharp\Lesson35\Lesson35_DZ2\bin\Debug\Lesson35_DZ2.exe.config
+C:\my_code\study\csharp\Lesson35\Lesson35_DZ2\bin\Debug\Lesson35_DZ2.exe
+C:\my_code\study\csharp\Lesson35\Lesson35_DZ2\bin\Debug\Lesson35_DZ2.pdb
+C:\my_code\study\csharp\Lesson35\Lesson35_DZ2\obj\Debug\Lesson35_DZ2.csproj.CoreCompileInputs.cache
+C:\my_code\study\csharp\Lesson35\Lesson35_DZ2\obj\Debug\Lesson35_DZ2.exe
+C:\my_code\study\csharp\Lesson35\Lesson35_DZ2\obj\Debug\Lesson35_DZ2.pdb
