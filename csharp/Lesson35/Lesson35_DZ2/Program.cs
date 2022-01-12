@@ -13,24 +13,14 @@ namespace Lesson35_DZ2
 
         static int MyIndexMethod(int[] myArray, int searchvalue)
         {
-            int myIndex = 0;
-            //public bool noSuchNumber = 0;
-        
-
             for (int i = 0; i < myArray.Length; i++)
             {
                 if (searchvalue == myArray[i])
                 {
-                    myIndex = i;
-                    break;
-                }
-                if (i == myArray.Length - 1)
-                {
-                    //noSuchNumber = 1;
-                    return 999;
+                    return i;
                 }
             }
-            return myIndex;
+            return -1;
         }
 
         static void Main(string[] args)
@@ -43,15 +33,13 @@ namespace Lesson35_DZ2
 
             int result = MyIndexMethod(myArray, searchvalue);
 
-            if (result == 999)
+            if (result == -1)
             {
                 Console.WriteLine("no such number in the array");
-
             }
             else
             {
                 Console.WriteLine(result);
-
             }
 
             Console.ReadLine();
