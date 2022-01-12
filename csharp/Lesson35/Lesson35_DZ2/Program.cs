@@ -31,9 +31,10 @@ namespace Lesson35_DZ2
 
             Console.WriteLine();
 
+
             int result = MyIndexMethod(myArray, searchvalue);
 
-            if (result == -1)
+            if (result == -1) 
             {
                 Console.WriteLine("no such number in the array");
             }
