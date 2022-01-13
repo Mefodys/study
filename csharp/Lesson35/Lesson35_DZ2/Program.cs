@@ -23,9 +23,21 @@ namespace Lesson35_DZ2
             return -1;
         }
 
+        static int [] GetRandomArray(uint lenght, int minValue, int maxValue)
+        {
+            int[] myArray = new int[lenght];
+            Random random = new Random();
+            for (int i = 0; i < myArray.Length; i++)
+            {
+                myArray[i] = random.Next(minValue, maxValue);
+            }
+            return myArray;
+        }
+
         static void Main(string[] args)
         {
-            int[] myArray = { 4, 6, 1, 5, 2, 8, 3, 4, 7, 1, 9 };
+            //int[] myArray = { 4, 6, 1, 5, 2, 8, 3, 4, 7, 1, 9 };
+            int[] myArray = GetRandomArray(10, -5, 30);
 
             int searchvalue = int.Parse(Console.ReadLine());
 
