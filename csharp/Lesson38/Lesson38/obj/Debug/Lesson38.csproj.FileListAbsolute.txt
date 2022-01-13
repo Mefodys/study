@@ -1,0 +1,7 @@
+C:\my_code\study\csharp\Lesson38\Lesson38\bin\Debug\Lesson38.exe.config
+C:\my_code\study\csharp\Lesson38\Lesson38\bin\Debug\Lesson38.exe
+C:\my_code\study\csharp\Lesson38\Lesson38\bin\Debug\Lesson38.pdb
+C:\my_code\study\csharp\Lesson38\Lesson38\obj\Debug\Lesson38.csproj.AssemblyReference.cache
+C:\my_code\study\csharp\Lesson38\Lesson38\obj\Debug\Lesson38.csproj.CoreCompileInputs.cache
+C:\my_code\study\csharp\Lesson38\Lesson38\obj\Debug\Lesson38.exe
+C:\my_code\study\csharp\Lesson38\Lesson38\obj\Debug\Lesson38.pdb
