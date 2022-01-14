@@ -10,6 +10,7 @@ namespace Lesson41_1
     {
         static int [] GetArray()
         {
+           // int[] arr = new int [11];
             int[] arr = null;
             return arr;
         }
