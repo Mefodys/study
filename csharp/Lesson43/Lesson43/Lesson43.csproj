@@ -4,15 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{25E0A463-A96F-4A30-B4D0-46956691ADD0}</ProjectGuid>
+    <ProjectGuid>{5086B632-232C-490E-99B4-2B200EDD64E7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lesson41_1</RootNamespace>
-    <AssemblyName>Lesson41_1</AssemblyName>
+    <RootNamespace>Lesson43</RootNamespace>
+    <AssemblyName>Lesson43</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-	  <LangVersion>8.0</LangVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
