@@ -12,10 +12,10 @@ namespace Lesson43_DZ1
 {
     class Program
     {
-        static void Resize(ref int[] arr, uint newSize)
+        static void Resize <T>(ref T[] arr, uint newSize)
         {
             //var newpArr = new int[arr.Length + count];
-            var newArr = new int[newSize];
+            var newArr = new T[newSize];
 
             //arr.CopyTo(tempArr, 0);
 
@@ -29,8 +29,10 @@ namespace Lesson43_DZ1
         static void Main(string[] args)
         {
             int[] myArray = { 10, 5, 3 };
+            string[] strArray = { "test", "hello", "world" };
 
             Resize(ref myArray, 2);
+            Resize(ref strArray, 2);
         }
     }
 }
