@@ -12,12 +12,9 @@ namespace Lesson43_DZ1
 {
     class Program
     {
-        static void Resize <T>(ref T[] arr, uint newSize)
+        static void Resize <T>(ref T[] arr, uint newSize) //generic usage.
         {
-            //var newpArr = new int[arr.Length + count];
             var newArr = new T[newSize];
-
-            //arr.CopyTo(tempArr, 0);
 
             for (int i = 0; i < arr.Length && i < newArr.Length; i++)
             {
