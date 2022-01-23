@@ -45,6 +45,34 @@ namespace Lesson43_DZ2
             }
             myArray = newArray;
         }
+
+        static void AdditionAtIndex(ref int[] myArray, int newValue, int index)
+        {
+            int newArrayLength = myArray.Length + 1;
+            int[] newArray = new int[newArrayLength];
+
+            for (int i = 0; i <= index; i++)
+            {
+
+                if (i == index)
+                {
+                    newArray[i] = newValue;
+                }
+                else
+                {
+                    newArray[i] = myArray[i];
+                }
+            }
+
+            for (int i = index+1; i <= newArrayLength-1; i++)
+            {
+                newArray[i] = myArray[i-1];
+            }
+
+        myArray = newArray;
+        }
+
+
         static void Main(string[] args)
         {
             int[] myArray = { 2, 5, 7, 55 };
@@ -52,10 +80,16 @@ namespace Lesson43_DZ2
             int newValue2 = 100;
 
 
-            AdditionAtStart(ref myArray, newValue1);
+            //AdditionAtStart(ref myArray, newValue1);
             AdditionAtEnd(ref myArray, newValue2);
-            AdditionAtStart(ref myArray, newValue1);
-            AdditionAtEnd(ref myArray, newValue2);
+            //AdditionAtStart(ref myArray, newValue1);
+            //AdditionAtEnd(ref myArray, newValue2);
+            AdditionAtIndex(ref myArray, newValue1, 3);
+            AdditionAtIndex(ref myArray, newValue1, 1);
+            AdditionAtIndex(ref myArray, 9999, 5);
+
+            //AdditionAtIndex(ref myArray, newValue1, 1);
+
 
 
         }
