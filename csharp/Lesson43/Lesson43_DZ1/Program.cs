@@ -12,7 +12,7 @@ namespace Lesson43_DZ1
 {
     class Program
     {
-        static void Resize <T>(ref T[] arr, uint newSize) //generic usage.
+        static void Resize <T>(ref T[] arr, uint newSize) //generic usage (PLUS ref usage).
         {
             var newArr = new T[newSize];
 
